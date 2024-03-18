@@ -1,4 +1,7 @@
 <?php
-$heading = 'welcome';
+function say(){
+    echo 'hello';
+}
+
+say();
 ?>
-<h1><?php echo $heading; ?></h1>
