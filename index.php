@@ -13,16 +13,19 @@
     </header>
         <div id="shouts">
             <ul>
-            <li class="shout"><span>10:15 PM - </span></li>
-            <li class="shout"><span>10:15 PM - </span></li>
-            <li class="shout"><span>10:15 PM - </span></li>
-            <li class="shout"><span>10:15 PM</span></li>
-            <li class="shout"><span>10:15 PM</span></li>
-            <li class="shout"><span>10:15 PM</span></li>
-
+            <li class="shout"><span>10:15 PM - </span> Ahmed: ya rab help me finish my projects</li>
+            <li class="shout"><span>10:15 PM - </span> Ahmed: ya rab help me finish my projects</li>
+            <li class="shout"><span>10:15 PM - </span> Ahmed: ya rab help me finish my projects</li>
+            <li class="shout"><span>10:15 PM - </span> Ahmed: ya rab help me finish my projects</li>
+            <li class="shout"><span>10:15 PM - </span> Ahmed: ya rab help me finish my projects</li>
+            <li class="shout"><span>10:15 PM - </span> Ahmed: ya rab help me finish my projects</li>
             </ul>
         </div>
-
+        <div id ="input">
+            <form method="post" action="process.php">
+                <input type="text" name="user" placeholder="Enter your name" />
+                <input type="text" name="message" placeholder="Enter a message"/>
+            </form>
     </div>
     
 </body>
