@@ -21,3 +21,10 @@ header h1 {
     padding: 15px 0 10px 10px;
     border-bottom: 1px solid white;
 }
+#shouts{
+    width: 90%;
+    background: lightgray;
+    height: 400px;
+    margin: 20px auto;
+    overflow: auto;
+}
