@@ -12,6 +12,12 @@ body{
     background-color: darkgray;
     margin: 50px auto;
     overflow: auto;
-    width: 60px;
+    width: 60%;
     min-height: 400px;
+}
+header h1 {
+    color: white;
+    font-size: 22px;
+    padding: 15px 0 10px 10px;
+    border-bottom: 1px solid white;
 }
