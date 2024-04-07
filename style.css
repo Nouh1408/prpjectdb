@@ -6,5 +6,12 @@ body{
     font-family: Arial;
     font-size: 15px;
     line-height: 1.5em;
-    background:grey;
+    background:#f4f4f4;
+}
+#container{
+    background-color: darkgray;
+    margin: 50px auto;
+    overflow: auto;
+    width: 60px;
+    min-height: 400px;
 }
