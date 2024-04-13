@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shout it!</title>
     <link rel="stylesheet" href="style.css" type="text/css" />
+    <meta name="description" content="text first thing comes to mind">
 </head>
 <body>
     <div id="container">
