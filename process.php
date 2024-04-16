@@ -1,2 +1,2 @@
 <?php
-$con = mysqli_connect("localhost","root","cse221@@!","shoutit");
+$con = mysqli_connect("localhost","root","CSE221@@!","shoutit");
